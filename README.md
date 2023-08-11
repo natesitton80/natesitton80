@@ -12,7 +12,6 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats-mocha-three-10.vercel.app/api?username=natesitton80&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=natesitton80&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats-mocha-three-10.vercel.app/api/top-langs/?username=natesitton80&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=natesitton80&icon=0&color=6)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=natesitton80&color=blue)
